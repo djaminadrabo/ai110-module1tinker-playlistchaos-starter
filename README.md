@@ -111,3 +111,5 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+Reflection: The main lesson students should learn from this activity is attention to detail and also checking the code the AI generates. One common challenge is finding logic mistakes, such as case-sensitive searches or issues with keyword matching, because these problems don't usually generate error messages. If a student gets stuck, I would guide them by asking them to walk through what actions they've done and what they think the issue or error comes from. For example, I might ask, "When you type 'Strode' into the search bar, what do you see and what should we be looking for in the code". This encourages them to find the issue on their own rather than giving them the answer directly. 
